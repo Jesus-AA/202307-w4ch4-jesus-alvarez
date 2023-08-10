@@ -15,11 +15,20 @@ Aquí tienes la maquetación HTML/CSS de una aplicación, tendrás que programar
 
 Separa todo en los siguientes componentes:
 
-- Info
-- Display
-- Actions
-  - Action
-- Keyboard
-  - Key
+### - Info:
+
+-Muestra el estado de la llamada (calling...). No interacciona el usuario con el, solo lo puede ver.
+
+### - Display:
+
+-Muestra los números que va pulsando el usuario. Recibe los números tecleados. No interacciona con el usuario, el usuario solo lo puede ver.
+
+### - Actions
+
+### - Action:
+
+Muestra los botenos de Call y Hang. El usuario las teclea en base a la necesidad que tenga (terminar llamada, iniciar llamada o borrar el número tecleado).
+
+- Keyboard: Muestra las teclas del teclado en la pantalla (0-9 y delete). El usuario interactúa con ellas pulsándolas para marcar un número.
 
 Entrega también un listado de responsabilidades.
