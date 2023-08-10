@@ -1,3 +1,3 @@
 export function DisplayNumbers() {
-  return <span className="number">667359961</span>;
+  return <span className="number"></span>;
 }
